@@ -16,3 +16,20 @@
     height: 3.5vw;
     background: rgb( 41,78,152);
 }
+
+.flex-middle{
+    width: 80%;
+    height: inherit;
+}
+
+.center-block{
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.link-to-start {
+    font-size: 1.6vw;
+    color: #fff;
+    float: left;
+    margin: 1%;
+}
